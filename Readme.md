@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Office2007.Silverlight.xaml](./CS/SilverlightApplication27/DevExpress.Xpf.LayoutControl/Office2007.Silverlight.xaml) (VB: [Office2007.Silverlight.xaml](./VB/SilverlightApplication27/DevExpress.Xpf.LayoutControl/Office2007.Silverlight.xaml))
+* [Office2007.xaml](./CS/SilverlightApplication27/DevExpress.Xpf.LayoutControl/Office2007.xaml) (VB: [Office2007.xaml](./VB/SilverlightApplication27/DevExpress.Xpf.LayoutControl/Office2007.xaml))
+* [Office2007Colors.xaml](./CS/SilverlightApplication27/DevExpress.Xpf.LayoutControl/Office2007Colors.xaml) (VB: [Office2007Colors.xaml](./VB/SilverlightApplication27/DevExpress.Xpf.LayoutControl/Office2007Colors.xaml))
+* [MainPage.xaml](./CS/SilverlightApplication27/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication27/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/SilverlightApplication27/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication27/MainPage.xaml.vb))
+* [StandardControls.xaml](./CS/SilverlightApplication27/Themes.SL/StandardControls.xaml) (VB: [StandardControls.xaml](./VB/SilverlightApplication27/Themes.SL/StandardControls.xaml))
+<!-- default file list end -->
 # How to create a custom theme for the DXLayoutControl
 
 
